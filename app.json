@@ -1,0 +1,7 @@
+{
+  "name": "nativelearn",
+  "displayName": "nativelearn",
+  "expo": {
+    "userInterfaceStyle": "automatic"
+  }
+}
